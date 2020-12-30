@@ -3,9 +3,6 @@
 ##  Repository: 
 [JS-Reference-VS-Copy](https://github.com/TBragg800/JS-Reference-VS-Copy)
 
-##  Deployed:
-[JS-Reference-VS-Copy](https://tbragg800.github.io/JS-Reference-VS-Copy/)
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/JS-Reference-VS-Copy)
 
@@ -19,13 +16,10 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to gain expierience building video player functionality. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to pracitce with arrays and objects and the proper methods to copy vs simply referencing the array or object. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
-
-## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [JS-Reference-VS-Copy](https://tbragg800.github.io/JS-Reference-VS-Copy/)
 
 ## License
   MIT License
@@ -55,6 +49,4 @@ SOFTWARE.
   Email: tbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
 
-## Screenshot of deployed application
-![](./assets/JS-Reference-VS-Copy.png)
 
